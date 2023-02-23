@@ -69,7 +69,6 @@ h1 {
   
   background-position: center;
   background-size: cover;
-  
 }
 
 .big-card {
@@ -87,55 +86,55 @@ h1 {
 }
 
 .big-card:nth-child(2) {
-  background-image: url("https://images.unsplash.com/photo-1568572933382-74d440642117?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZG9nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60n");
+  background-image: url("	https://live.staticflickr.com/65535/50938780218_f6d34b841f_b.jpg");
   transform: translateX(-10%) rotate(-1deg);
 }
 
 .big-card:nth-child(4) {
-  background-image: url("https://images.unsplash.com/photo-1534351450181-ea9f78427fe8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50947269821_8893b76d26_c.jpg");
   transform: rotate(2deg);
 }
 
 .big-card:nth-child(6) {
-  background-image: url("https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("	https://live.staticflickr.com/65535/50946570948_c92fe8d8f7_c.jpg");
   transform: translateX(-6%) rotate(-3deg);
 }
 
 .big-card:nth-child(8) {
-  background-image: url("https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("	https://live.staticflickr.com/65535/50953389381_1c6b2410a4_c.jpg");
   transform: translate(10%, 3%) rotate(5deg);
 }
 
 .card-group[data-index="1"] > .big-card:nth-child(6) {
-  background-image: url("https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50979271083_c1a93915d9_c.jpg");
 }
 
 .card-group[data-index="1"] > .big-card:nth-child(8) {
-  background-image: url("https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50972755638_5a74a110e7_c.jpg");
 }
 
 .card-group[data-index="2"] > .big-card:nth-child(4) {
-  background-image: url("https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50966518657_e45ef3ec97_c.jpg");
 }
 
 .card-group[data-index="2"] > .big-card:nth-child(8) {
-  background-image: url("https://images.unsplash.com/photo-1534351450181-ea9f78427fe8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50959812176_340c6b13f9_c.jpg");
 }
 
 .little-card:nth-child(1) {
-  background-image: url("https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  background-image: url("	https://live.staticflickr.com/65535/50938780768_c23179aa6b_b.jpg");
 }
 
 .little-card:nth-child(3) {
-  background-image: url("https://images.unsplash.com/photo-1548546738-8509cb246ed3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50939584657_3f36341ac0_b.jpg");
 }
 
 .little-card:nth-child(5) {
-  background-image: url("https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50934054578_d4115963a7_c.jpg");
 }
 
 .little-card:nth-child(7) {
-  background-image: url("https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://live.staticflickr.com/65535/50934054918_371f3e25ba_b.jpg");
 }
 
 .card-group:hover > .card {  
